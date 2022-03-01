@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Admiral Russel's letter to the Earl of Nottingham: containing an exact &amp; particular relation of the late happy victory and success against the French fleet. Published by authority.</title>
+            <author>Orford, Edward Russell, Earl of, 1653-1727.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27652</idno>
+            <idno type="OCLC"> 12988461</idno>
+            <idno type="STC">Wing O419</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.23[95]</idno>
+            <idno type="STC">ESTC R6543</idno>
+            <idno type="EEBO-CITATION">99890836</idno>
+            <idno type="PROQUEST">ocm99890836</idno>
+            <idno type="VID">187656</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B27652)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187656)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C8:2[92])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Admiral Russel's letter to the Earl of Nottingham: containing an exact &amp; particular relation of the late happy victory and success against the French fleet. Published by authority.</title>
+                  <author>Orford, Edward Russell, Earl of, 1653-1727.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Edward Jones,</publisher>
+                  <pubPlace>In the Savoy: [i.e. London] :</pubPlace>
+                  <date>MDCXCII. [1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: E. Russell.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Nottingham, Daniel Finch, --  Earl of, 1647-1730 --  Early works to 1800.</term>
+               <term>La Hogue, Battle of, 1692 --  Early works to 1800.</term>
+               <term>Grand Alliance, War of the, 1689-1697 --  Campaigns --  English Channel --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:187656:1"/>
+            <pb facs="tcp:187656:1" rendition="simple:additions"/>
+            <p>Admiral <hi>RUSSEL</hi>'s LETTER TO THE Earl of <hi>NOTTINGHAM:</hi> CONTAINING An EXACT &amp; PARTICULAR RELATION Of the Late Happy Victory and Succeſs AGAINST <hi>The French Fleet.</hi>
+            </p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Publiſhed by Authority.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>In the SAVOY:</hi> Printed by <hi>Edward Jones.</hi> MDCXCII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:187656:2"/>
+            <pb n="3" facs="tcp:187656:2"/>
+            <head>Admiral <hi>R<g ref="char:V">Ʋ</g>SSEL</hi>'s LETTER TO THE Earl of Nottingham, &amp;c.</head>
+            <opener>
+               <dateline>
+                  <hi>Portſmouth,</hi> 
+                  <date>
+                     <hi>June</hi> 2. 1692.</date>
+               </dateline>
+               <salute>My LORD,</salute>
+            </opener>
+            <p>SINCE your Lordſhip ſeems to think, that an Account in general of the Fleet's good Succeſs, is not ſo ſatisfactory as one ſetting forth the Particulars, I here ſend it with as much Brevity as the Matter will ad<g ref="char:EOLhyphen"/>mit of. I muſt confeſs I was not much inclined to trouble you in this nature, not being ambitious to ſee my Name in Print on any Occa<g ref="char:EOLhyphen"/>ſion; but ſince 'tis your Lordſhips Commands, I am the more enclined to give you the beſt Information I am able of the Action, having ſeen ſeveral Printed Relations not very ſincere.</p>
+            <p>
+               <hi>Wedneſday</hi> in the Evening, being the Eighteenth of <hi>May,</hi> ſtanding over for <hi>Cape de Hague,</hi> I ordered Captain <hi>Gillam</hi> in the <hi>Cheſter,</hi> and the <hi>Charles</hi> Galley, to lie at ſuch a diſtance to the Weſtward of the Fleet, that the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> might diſcover any Signals made from me.</p>
+            <pb n="4" facs="tcp:187656:3" rendition="simple:additions"/>
+            <p>
+               <hi>Thurſday</hi> the Nineteenth, ſtanding with a ſmall Gale S. S. W. the Wind at W. and W. and by <hi>S.</hi> hazey Weather, <hi>Cape Barfleur</hi> bearing then S. W. and by S. from me diſtant about Seven Leagues, between three and Four in the mor<g ref="char:EOLhyphen"/>ning, we heard ſeveral Guns to the Weſtward, and in a ſhort time I ſaw the two Frigats making the Signal of ſeeing the Enemy, with their Heads lying to the Northward, which gave me reaſon to think the Enemy lay with their Heads that way; upon which I ordered the Signal to be made for the Fleet's drawing into a Line of Battel; after which I made the Signal for the Rear of the Fleet to Tack, that if the Enemy ſtood to the Northward, we might the ſooner come to engage; But ſoon after four a Clock, the Sun had a little cleared the Weather, and I ſaw the French Fleet ſtanding to the Southward, forming their Line on the ſame Tack that I was upon; I then ordered that Signal for the Rear to Tack to be taken in, and at the ſame time bore away with my own Ship fo far to Leeward, as I judged each Ship in the Fleet might fetch my Wake or Graine; then brought to again, lying by with my Fore-top-ſail to the Maſt, to give the Ships in the Fleet the better opportunity of placing themſelves, as they had been before directed. By eight a Clock we had formed an indifferent Line, ſtretching from the S. S. W. to the N. N E. the Dutch in the Van, the Red in the Center, and the Blue in the Rear. By Nine a Clock the Enemies Van Guard had ſtretch'd almoſt as far to the Southward as ours, their Admiral and Rear-Admiral of the Blue that were in the Rear, cloſing the Line, and their Vice-Admiral of the ſame Diviſion ſtretching to the Rear of our Fleet, but ne<g ref="char:EOLhyphen"/>ver coming within Gun-ſhot of them. About ten they bore down upon us, I ſtill lying with my Fore-top-ſail to the Maſt. I then obſerved Monſieur <hi>Tour<g ref="char:EOLhyphen"/>ville,</hi> the French Admiral, put out his Signal for Battel; I gave order that mine ſhould not be hoiſted till the Fleets began to engage, that he might have the fairer opportunity of coming as near me as he thought convenient, and at the ſame time, I ſent Orders to Admiral <hi>Almonde,</hi> that as ſoon as any of his Squa<g ref="char:EOLhyphen"/>dron could Weather the Enemies Fleet, they ſhould Tack, and get to the Weſtward of them; as alſo to the Blue, to make ſail and cloſe the Line, they being at ſome diſtance a-ſtern; but as ſoon as the Fleet began to engage it fell calm, which prevented their ſo doing. About half an Hour after eleven, Mon<g ref="char:EOLhyphen"/>ſieur <hi>Tourville</hi> in the <hi>Royal Sun</hi> (being within Three Quarters Muſquet-ſhot,) brought to, lying by me at that diſtance about an Hour and a half, plying his Guns very warmly; though I muſt obſerve to you, that our Men fired their Guns faſter; after which time I did not find his Guns were fired with that vi<g ref="char:EOLhyphen"/>gour as before, and I could ſee him in great Diſorder, his Rigging, Sails, and Top-ſail Yards, being ſhot, and no body endeavouring to make them ſervice<g ref="char:EOLhyphen"/>able, and his Boats towing of him to Windward, gave me reaſon to think he was much gaul'd. About two the Wind ſhifted to the N. W. and by W. and ſome little time after that Five freſh Ships of the Enemies Blue Squadron came and poſted themſelves, three a-head of Monſieur <hi>Tourville,</hi> and two a-ſtern of him, and fired with great Fury, which continued till after three. About four in the Evening there came ſo thick a Fog, that we could not ſee a Ship of the Enemies, which occaſioned our leaving off firing for a little time, and then it cleared up, and we could ſee Monſieur <hi>Tourville</hi> towing away with his Boats to the Northward from us; upon which I did the ſame, and ordered all my Diviſion to do the like; and about half an Hour after Five, we had a ſmall breeze of VVind Eaſterly. I then made the Signal for the Fleet to Chaſe, ſending Notice to all the Ships about me, that the Enemy were running. About this time I heard ſeveral Broad-ſides to the Weſtward and, though I could not ſee the Ships that fired, I concluded them to be our Blue, that by the ſhift of Wind had weathered the Enemy; but it proved to be the Reer-Admiral of the Red, who had weathered <hi>Tour<g ref="char:EOLhyphen"/>ville</hi>'s
+<pb n="5" facs="tcp:187656:3" rendition="simple:additions"/> Squadron, and got between them and their Admiral of the Blue, where they lay firing ſome time, and then <hi>Tourville</hi> anchored with ſome Ships of his own Diviſion, as alſo the Reer-Admiral of the Red with ſome of his: This was the time that Captain <hi>Haſtings</hi> in the <hi>Sandwich</hi> was killed, he driving through thoſe Ships, by reaſon of his Anchors not being clear. I could not ſee this part, becauſe of the great Smoak and Fog, but have received this Informa<g ref="char:EOLhyphen"/>tion from Sir <hi>Cloudeſly Shovel</hi> ſince. I ſent to all the Ships that I could think were near me, to Chaſe to the Weſtward all night; telling them, I deſigned to fol<g ref="char:EOLhyphen"/>low the Enemy to <hi>Breſt;</hi> and ſometimes we could ſee a French Ship, two, or three, ſtanding away with all the Sail they could make to the Weſtward. About Eight I heard firing to the Weſtward, which laſted about half an hour, it being ſome of our Blue fallen in with ſome of the Ships of the Enemies in the Fog. 'Twas Foggy, and very little Wind all night.</p>
+            <p>
+               <hi>Friday</hi> the 20th, 'twas ſo thick in the morning, that I could ſee none of the Enemies Ships, and but very few of our own. About Eight it began to clear up; the Dutch, who were to the Southward of me, made the Signal of ſeeing the Enemy; and, as it cleared, I ſaw about 32 or 34 Sail, diſtant from us be<g ref="char:EOLhyphen"/>tween two and three Leagues, the Wind at E. N. E. and they bearing from us W. S W. our Fleet Chaſing with all the Sail they could make, having taken in the Signal for the Line of Battle, that each Ship might make the beſt of her way after the Enemy. Between Eleven and Twelve, the Wind came to the S. W. The French ply'd to the Weſtward with all the Sail they could, and we after them. About Four the Tide of Ebb being done, the French anchor'd, as alſo we in 43 Fathom Water, <hi>Cape Barfleur</hi> bearing S. and by W. About Ten in the Evening we weighed with the Tide of Ebb, the Wind at S. W. and ply'd to the Weſtward. About Twelve my Fore-Topmaſt came by the Board, having received ſeveral Shot.</p>
+            <p>
+               <hi>Saturday</hi> the 21ſt, we continued ſtill plying after the Enemy, till Four in the morning. The Tide of Ebb being done, I anchored in 46 Fathom Water, <hi>Cape de Hague</hi> bearing S. and by W. and the <hi>Iſland of Alderney</hi> S. S. W. By my Topmaſt's going away, the Dutch Squadron, and the Admiral of the Blue, with ſeveral of his Squadron, had got a great way to Windward of me. About Seven in the morning ſeveral of the Enemies Ships, being far advanced towards the <hi>Race,</hi> I perceived driving to the Eaſtward with the Tide of Flood. Between Eight and Nine, when they were driven ſo far to the Eaſtward that I could fetch them, I made the Signal for the Fleet to cut and follow the Ene<g ref="char:EOLhyphen"/>my; which they all did, except the aforementioned Weathermoſt Ships, which rid faſt, to obſerve the motion of the reſt of the Enemies Ships that continued in the <hi>Race of Alderney.</hi> About Eleven, I ſaw three great Ships fair under the Shoar Tack and ſtand to the Weſtward: but after making two or three ſhort Boards, the biggeſt of them run aſhoar, who preſently cut his Maſts away; the other two being to Leeward of him, ply'd up to him: The reaſon, as I judge, of their doing this was, that they could not weather our ſternmoſt Ships to the Weſtward, nor get out a-head of Us to the Eaſtward. I obſer<g ref="char:EOLhyphen"/>ving that many of our Ships hovered about thoſe, I ſent to Sir <hi>Ralph Delaval,</hi> Vice-Admiral of the Red, who was in the Reer of our Fleet, to keep ſuch a number of Ships and Fireſhips with him, as might be ſufficient to deſtroy thoſe of the Enemies; and to order the others to follow me, I being then in pur<g ref="char:EOLhyphen"/>ſuit of the reſt of the Enemy: An Account of the performing that Service I don't trouble your Lordſhip with, He having given it you already. About Four in the afternoon 18 Sail of the Enemies Ships got to the Eaſtward of <hi>Cape Barfleur;</hi> after which, I obſerved they hawled in for <hi>le Hogue:</hi> The Reer-Admiral of the Red, Vice-Admiral of the Blue, and ſome other Ships, were
+<pb n="6" facs="tcp:187656:4" rendition="simple:additions"/> a-head of me. About Ten at night, I anchored in the Bay of <hi>le Hogue,</hi> and lay till Four the next morning, being</p>
+            <p>
+               <hi>Sunday</hi> the 22d; and then I weighed, and ſtood in near the Land of <hi>le Hogue:</hi> but when we found the Flood came, we anchored in good Sandy Ground. At Two in the afternoon we weighed again, and ply'd cloſe in with <hi>le Hogue,</hi> where we ſaw 13 Sail of the Enemies Men of War hawled cloſe in with the Shoar: The Reer-Admiral of the Red tells me, That the night before he ſaw the other five, which made up the 18 I firſt chaſed, ſtand to the Eaſt<g ref="char:EOLhyphen"/>ward.</p>
+            <p>
+               <hi>Monday</hi> the 23d, I ſent in Vice-Admiral <hi>Rooke,</hi> with ſeveral Men of War and Fireſhips, as alſo the Boats of the Fleet, to deſtroy thoſe Ships: but the Enemy had gotten them ſo near the Shoar, that not any of our Men of War, except the ſmall Frigats, could do any Service; but that night Vice-Admiral <hi>Rooke</hi> with the Boats burnt ſix of them.</p>
+            <floatingText xml:lang="eng" type="table">
+               <body>
+                  <p>
+                     <table>
+                        <row>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell role="label">Guns.</cell>
+                        </row>
+                        <row>
+                           <cell>Soleil Royal</cell>
+                           <cell>Count de <hi>Tourville</hi>
+                           </cell>
+                           <cell>104</cell>
+                        </row>
+                        <row>
+                           <cell>L' Ambitieux,</cell>
+                           <cell>Chevalier de <hi>la Villette,</hi> Vice-Admiral of the</cell>
+                           <cell>104</cell>
+                        </row>
+                        <row>
+                           <cell>L'Admirable,</cell>
+                           <cell>Monſieur <hi>Beaujeu,</hi>
+                           </cell>
+                           <cell>90</cell>
+                        </row>
+                        <row>
+                           <cell>La Magnifique,</cell>
+                           <cell>Monſ. <hi>Cottologon,</hi> Rere-Admiral of the Blue.</cell>
+                           <cell>76</cell>
+                        </row>
+                        <row>
+                           <cell>Le St. Philipp,</cell>
+                           <cell>Monſieur <hi>Infreville,</hi>
+                           </cell>
+                           <cell>76</cell>
+                        </row>
+                        <row>
+                           <cell>Le Conquerant,</cell>
+                           <cell>Du <hi>Magnon,</hi>
+                           </cell>
+                           <cell>76</cell>
+                        </row>
+                        <row>
+                           <cell>Le Tryumphant,</cell>
+                           <cell>Monſieur <hi>Bellemont,</hi>
+                           </cell>
+                           <cell>74</cell>
+                        </row>
+                        <row>
+                           <cell>L' Etonant,</cell>
+                           <cell>Monſieur de <hi>Septime,</hi>
+                           </cell>
+                           <cell>80</cell>
+                        </row>
+                        <row>
+                           <cell>Le Terrible,</cell>
+                           <cell>Monſieur <hi>Septvilla,</hi>
+                           </cell>
+                           <cell>80</cell>
+                        </row>
+                        <row>
+                           <cell>L' Amiable,</cell>
+                           <cell>Monſieur de <hi>Raal,</hi>
+                           </cell>
+                           <cell>68</cell>
+                        </row>
+                        <row>
+                           <cell>Le Fier,</cell>
+                           <cell>Monſieur <hi>Larſethoir,</hi>
+                           </cell>
+                           <cell>68</cell>
+                        </row>
+                        <row>
+                           <cell>Le Glorieux,</cell>
+                           <cell>Le Ch. de <hi>Chateaumoorant,</hi>
+                           </cell>
+                           <cell>60</cell>
+                        </row>
+                        <row>
+                           <cell>Le Serieux,</cell>
+                           <cell>Monſieur <hi>Bernier,</hi>
+                           </cell>
+                           <cell>60</cell>
+                        </row>
+                        <row>
+                           <cell>Le Trident,</cell>
+                           <cell>Monſieur <hi>Monteaud,</hi>
+                           </cell>
+                           <cell>56</cell>
+                        </row>
+                        <row>
+                           <cell cols="3">
+                              <hi>As the Priſoners report, a Three Deck Ship burnt by accident, and the two following ſunk; how true I don't know.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Le Prince,</cell>
+                           <cell>Monſieur <hi>Bagneuz,</hi>
+                           </cell>
+                           <cell>60</cell>
+                        </row>
+                        <row>
+                           <cell>Le St. Paril,</cell>
+                           <cell>Monſieur <hi>Ferille.</hi>
+                           </cell>
+                           <cell>60</cell>
+                        </row>
+                        <row>
+                           <cell cols="3">
+                              <hi>Tho' theſe be all the Names that I have been able to learn, yet I am ſure there are ſixteen Ships of conſequence Burnt.</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Tueſday,</hi> the 24th, About eight in the morning he went in again with the Boats, and Burnt the other ſeven, to<g ref="char:EOLhyphen"/>gether with ſeveral Tranſport Ships, and ſome Veſſels with Ammunition, the Names of which Ships I am not yet able to give your Lordſhip any other Account of than what I formerly ſent you, which are in the Margin.</p>
+            <p>
+               <hi>Wedneſday</hi> the 25th, I Sailed from <hi>le Hogue,</hi> ordering the Admiral of the Blue, with a Squadron of <hi>Engliſh</hi> and <hi>Dutch</hi> Ships under his Command, to run along the Enemies Coaſt as far as <hi>Havre de Grace,</hi> in hopes that ſome of the beforementioned five Ships that ſtood to the Eaſtward, might have been got thither; but he informs me, that upon his appearing before that place, he could perceive but one or two ſmall Veſſels. The Number of the Enemies Ships did not exceed fifty Men of War, by the beſt information, from Fifty ſix to One hundred and four Guns; and tho' it muſt be confeſſed that our number was ſuperiour to theirs (which probably at firſt might ſtartle them) yet by their coming down with that Reſolution, I cannot think it had any great effect upon them; And this I may affirm for a Truth, not with any intention to value our own Action, or to leſſen the Bravery of the Enemy, That they were beaten by a Number conſiderably leſs than theirs; the Calmneſs and Thickneſs of the Weather giving very few of the Dutch or Blue the Opportunity of Engaging, which I am ſure they look upon as a great Misfortune; and, had the Weather proved otherwiſe, I do not ſee how 'twas poſſible for any of them to have eſcaped us.</p>
+            <pb n="7" facs="tcp:187656:4" rendition="simple:additions"/>
+            <p>This is the Exacteſt Account that I am able to give You, which I hope will prove to Your Lordſhip's Satisfaction. Vice-Admiral <hi>Rooke</hi> has given me a very good Character of ſeveral Men employed in the Boats, and I have ordered him to give me a Liſt of the Names of ſuch perſons whoſe Behaviour was remarkable, in order to their Reward. I am,</p>
+            <closer>
+               <salute>My LORD,</salute>
+               <signed>
+                  <hi>Your Lordſhip's moſt Faithful Humble Servant,</hi> E. Ruſſell.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
